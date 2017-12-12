@@ -149,6 +149,7 @@ header.masthead {
       font-size: 1.75em; } }
 
 .portfolio {
+  margin-top:15px;
   margin-bottom: -15px; }
   .portfolio .portfolio-item {
     position: relative;
